@@ -53,7 +53,7 @@ transform.RotateAround(Vector3.up,Vector3.left,40*Time.deltaTime);
 }
 ~~~
 ## Output:
-![Screenshot (144)](https://github.com/user-attachments/assets/ec8fa194-f9dd-45a0-8c9f-8bccf686269d)
+![alt text](<Screenshot (144)-1.png>)
 
 ## Result:
 Thus the 3d rotating object experiment is executed in unity6

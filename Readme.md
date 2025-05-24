@@ -1,6 +1,8 @@
 # Rotating-the-Gaming-Object
 
 ## Aim:
+## DEVELOPED BY : Anto Williams S
+## REG NO : 212224240012
 To develop a 3D application for rotating the gaming objects in unity.
 ## Algorithm:
 ### Step1:
@@ -53,8 +55,7 @@ transform.RotateAround(Vector3.up,Vector3.left,40*Time.deltaTime);
 }
 ~~~
 ## Output:
-![alt text](<Screenshot (144)-1.png>)
+![Screenshot (144)](https://github.com/user-attachments/assets/ec8fa194-f9dd-45a0-8c9f-8bccf686269d)
 
 ## Result:
 Thus the 3d rotating object experiment is executed in unity6
-
